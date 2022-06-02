@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working with freelances and open for hire!
 
-- 👨‍💻 All of my projects are available at [)
+- 👨‍💻 All of my projects are available at ()
 
 - ▶️ I regularly post videos on [youtube.com/libertyways](https://youtube.com/libertyways)
 
-- ⚡ Fun fact **Defi Degenerate 😜**
+- ⚡ Fun fact: **Defi Degenerate 😜**
 
 ## 🛠 &nbsp;Tech Stack
 
