@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" height="590em" src="(https://cdn.pixabay.com/photo/2018/07/15/10/46/network-3539325_960_720.jpg)"/>
+<img align="right" height="590em" src="https://cdn.pixabay.com/photo/2018/07/15/10/46/network-3539325_960_720.jpg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mauro Antunes</h1>
 
 - 🔥 Web Developer & Content Creator
@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **Defi Degenerate 😜**
 
-<br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -25,8 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
 
 ## 👨🏽‍🦲 &nbsp;Linkedin
 
