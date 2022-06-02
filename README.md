@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="right" height="300em" src="https://st3.depositphotos.com/2228340/12550/i/950/depositphotos_125507852-stock-photo-blockchain-technology-as-concept.jpg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mauro Antunes</h1>
 
 - 🔥 Web Developer & Content Creator
